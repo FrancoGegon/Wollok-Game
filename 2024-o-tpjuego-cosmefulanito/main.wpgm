@@ -1,0 +1,9 @@
+import wollok.game.*
+import objects.*
+import ejecucion.*
+
+program FulbotGame {
+    jueguito.inicializar()
+    jueguito.menu()
+    game.start()
+}
